@@ -1,0 +1,6 @@
+sniffer
+MacFSEvents; sys_platform == 'darwin'
+pyinotify; sys_platform == 'linux'
+pywin32; sys_platform == 'win32'
+pytest
+assertpy
