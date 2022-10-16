@@ -1,11 +1,7 @@
 class Solution:
 
-    def makeRowLists(self, number: int) -> list:
-        for number in number:
-            list
-
     def convert(self, input_string: str, rows: int) -> str:
-# amount of intermediate (singly-filled) lists in between two possibly full comumns = number_rows - 2
+        # amount of intermediate (singly-filled) lists in between two possibly full comumns = number_rows - 2
 
         # characters = []
         
